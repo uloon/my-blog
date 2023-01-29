@@ -69,6 +69,7 @@ export default {
   margin: 20px 0;
   background-color: #ccc;
   box-sizing: border-box;
+  box-shadow: 10px 10px 10px 0px rgba(0,0,0,0.5)
 }
 a {
   text-decoration: none;

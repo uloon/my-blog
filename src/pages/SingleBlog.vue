@@ -24,6 +24,9 @@ export default {
       ifShow: false,
     };
   },
+  computed(){
+
+  },
   created() {
     this.axios
       .get(

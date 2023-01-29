@@ -103,14 +103,14 @@ export default {
 
 <style scoped>
 #add-blog * {
-  box-sizing: border-box;
+  box-sizing: border-box;/*width和height指定盒子的总宽度*/
 }
 
 #add-blog {
   margin: 20px auto;
   max-width: 600px;
   padding: 20px;
-  border: dotted 1px;
+  border: dotted 2px;
 }
 
 label {

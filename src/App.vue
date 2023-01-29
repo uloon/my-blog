@@ -9,6 +9,7 @@
 
 <script>
 import BlogLeader from "./components/BlogLeader";
+
 export default {
   name: "App",
   components: { BlogLeader },
@@ -21,6 +22,7 @@ html {
   overflow-y: auto;
 }
 body {
+  margin: 0;
   width: 100vw;
   overflow: hidden;
   padding-right: calc(100vw - 100%);
